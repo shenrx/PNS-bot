@@ -30,17 +30,20 @@ Pastikan sistem Anda telah menginstal:
 
 ## 🛠️ Cara Instalasi
 1. Clone repo:
-```bash
-git clone https://github.com/shenrx/PNS-bot.git
-cd PNS-bot
+  ```bash
+  git clone https://github.com/shenrx/PNS-bot.git
+  cd PNS-bot
+```
 
 2. Instal dependencies:
-```bash
-npm install
+  ```bash
+  npm install
+```
 
 3. Jalankan bot:
-```bash
-node index.mjs
+  ```bash
+  node index.mjs
+```
 
 ## ⚠️ Perhatian!
 - Jangan bagikan pk.txt jika berisi kunci privat atau data sensitif.
