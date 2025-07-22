@@ -1,7 +1,15 @@
-# 🧠 PNS-bot
+# 🧠 PNS-bot atau Pharosname-bot
 
-_PNS-bot_ adalah bot CLI modular berbasis Node.js yang dirancang untuk mengotomatisasi proses tertentu pada domain atau ekosistem crypto. Dibuat oleh [shenrx](https://github.com/shenrx), bot ini menggabungkan tampilan terminal yang keren dengan kekuatan scripting modern.
+_PNS-bot_ atau [pharosname.com](https://test.pharosname.com/) adalah bot CLI modular berbasis Node.js yang dirancang untuk mengotomatisasi proses tertentu pada domain atau ekosistem crypto. Dibuat oleh [shenrx](https://github.com/shenrx), bot ini menggabungkan tampilan terminal yang keren dengan kekuatan scripting modern.
 
+---
+## 🥰 Daftar di Testnet PharosNetwork
+Link Join : [klik ME!](https://testnet.pharosnetwork.xyz/experience?inviteCode=7pw16G7oAD1Itte0)
+
+ref Code : 
+```bash
+7pw16G7oAD1Itte0
+```
 ---
 
 ## ⚙️ Struktur File
